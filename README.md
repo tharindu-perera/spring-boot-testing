@@ -1,4 +1,5 @@
 # spring-test-unit
+
 This project shows how to do unit and integration tests in a spring boot environment.
 
 The demo system is a Manga search engine, that allows searching by title.
