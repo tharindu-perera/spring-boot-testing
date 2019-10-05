@@ -19,8 +19,3 @@ You can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/do
 ```shell
 mvn spring-boot:run
 ```
-\
-ff
-\\
-
-fff
